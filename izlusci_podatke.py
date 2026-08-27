@@ -96,11 +96,16 @@ def podatki_univerze(vsebina):
     cena_solanja = re.search(r'Tuition Fees Range Matrix.*?Local.*?students.*?<strong>(.*?)</strong>', vsebina, re.DOTALL)
     izluscena_cena = cena_solanja.group(1) if cena_solanja else None
 
-    if cena_solanja:
-        zgornja_meja_re = re.search(r'-([\d,]+)\s*US\$', izluscena_cena)
-        zgornja_meja_cene = zgornja_meja_re.group(1) if zgornja_meja_re else None
-    else:
+    if izluscena_cena == 'Not reported':
         zgornja_meja_cene = 'Not reported'
+
+    elif izluscena_cena is not None:
+        zgornja_meja_re = re.search(r'-([\d,]+)\s*US\$', izluscena_cena)
+        zgornja_meja_cene = zgornja_meja_re.group(1) + ' US$' if zgornja_meja_re else None
+        
+    else:
+        zgornja_meja_cene = None
+        
 
     return {
         'velikost' : velikost.group(1) if velikost else None,

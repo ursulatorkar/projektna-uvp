@@ -1,201 +1,201 @@
 eu_rank,ime_uni,mesto,drzava,svetovni_rank,drzavni_rank,uni_url,velikost,selektivnost,leto_ustanovitve,cena_solanja,zgornja_meja_cene
-1,University of Oxford,Oxford,United Kingdom,9,1,https://www.unirank.org/gb/uni/university-of-oxford/,large-sized,very selective,1096,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999"
-2,University of Cambridge,Cambridge,United Kingdom,16,2,https://www.unirank.org/gb/uni/university-of-cambridge/,large-sized,extremely selective,1209,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999"
-3,University College London,London,United Kingdom,41,3,https://www.unirank.org/gb/uni/university-college-london/,very large-sized,not reported,1826,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-4,Eidgenössische Technische Hochschule Zürich,Zürich,Switzerland,45,1,https://www.unirank.org/ch/uni/eidgenossische-technische-hochschule-zurich/,large-sized,not reported,1855,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-5,University of Edinburgh,Edinburgh,United Kingdom,50,4,https://www.unirank.org/gb/uni/university-of-edinburgh/,very large-sized,not reported,1583,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-6,Ludwig-Maximilians-Universität München,Munich,Germany,71,1,https://www.unirank.org/de/uni/ludwig-maximilians-universitat-munchen/,very large-sized,not reported,1472,0-999 US$ (0-910 Euro),999
-7,The London School of Economics and Political Science,London,United Kingdom,73,5,https://www.unirank.org/gb/uni/the-london-school-of-economics-and-political-science/,large-sized,not reported,1895,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-8,Universität Wien,Vienna,Austria,82,1,https://www.unirank.org/at/uni/universitat-wien/,very large-sized,not available,1365,0-999 US$ (0-910 Euro),999
-9,Katholieke Universiteit Leuven,Leuven,Belgium,93,1,https://www.unirank.org/be/uni/katholieke-universiteit-leuven/,very large-sized,not reported,1425,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-10,Alma Mater Studiorum Università di Bologna,Bologna,Italy,96,1,https://www.unirank.org/it/uni/alma-mater-studiorum-universita-di-bologna/,very large-sized,averagely selective,1088,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-11,University of Manchester,Manchester,United Kingdom,97,6,https://www.unirank.org/gb/uni/university-of-manchester/,very large-sized,not reported,1824,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999"
-12,University of Glasgow,Glasgow,United Kingdom,103,7,https://www.unirank.org/gb/uni/university-of-glasgow/,large-sized,not reported,1451,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-13,Imperial College London,London,United Kingdom,105,8,https://www.unirank.org/gb/uni/imperial-college-london/,large-sized,not reported,1907,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-14,Technische Universität München,Munich,Germany,106,2,https://www.unirank.org/de/uni/technische-universitat-munchen/,very large-sized,not available,1868,0-999 US$ (0-910 Euro),999
-15,University of Southampton,Southampton,United Kingdom,109,9,https://www.unirank.org/gb/uni/university-of-southampton/,large-sized,not reported,1952,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-16,Ruprecht-Karls-Universität Heidelberg,Heidelberg,Germany,110,3,https://www.unirank.org/de/uni/ruprecht-karls-universitat-heidelberg/,very large-sized,not reported,1386,0-999 US$ (0-910 Euro),999
-17,King's College London,London,United Kingdom,115,10,https://www.unirank.org/gb/uni/king-s-college-london/,large-sized,not reported,1829,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-18,Freie Universität Berlin,Berlin,Germany,117,4,https://www.unirank.org/de/uni/freie-universitat-berlin/,large-sized,not reported,1948,0-999 US$ (0-910 Euro),999
-19,Helsingin yliopisto,Helsinki,Finland,119,1,https://www.unirank.org/fi/uni/helsingin-yliopisto/,large-sized,extremely selective,1640,0-999 US$ (0-910 Euro),999
-20,Universiteit Utrecht,Utrecht,Netherlands,121,1,https://www.unirank.org/nl/uni/universiteit-utrecht/,very large-sized,not reported,1636,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-21,University of Warwick,Coventry,United Kingdom,122,11,https://www.unirank.org/gb/uni/university-of-warwick/,large-sized,not reported,1965,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999"
-22,Universiteit van Amsterdam,Amsterdam,Netherlands,123,2,https://www.unirank.org/nl/uni/universiteit-van-amsterdam/,large-sized,not reported,1632,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-23,Universidad de Barcelona,Barcelona,Spain,125,1,https://www.unirank.org/es/uni/universidad-de-barcelona/,very large-sized,moderately selective,1450,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-24,University of Birmingham,Birmingham,United Kingdom,126,12,https://www.unirank.org/gb/uni/university-of-birmingham/,very large-sized,not reported,1900,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-25,Universitetet i Oslo,Oslo,Norway,128,1,https://www.unirank.org/no/uni/universitetet-i-oslo/,large-sized,not reported,1811,0-999 US$ (0-910 Euro),999
-26,Universiteit Leiden,Leiden,Netherlands,129,3,https://www.unirank.org/nl/uni/universiteit-leiden/,very large-sized,not reported,1575,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-27,Friedrich-Alexander-Universität Erlangen-Nürnberg,Erlangen,Germany,132,5,https://www.unirank.org/de/uni/friedrich-alexander-universitat-erlangen-nurnberg/,very large-sized,averagely selective,1743,0-999 US$ (0-910 Euro),999
-28,École Polytechnique Fédérale de Lausanne,Lausanne,Switzerland,134,2,https://www.unirank.org/ch/uni/ecole-polytechnique-federale-de-lausanne/,large-sized,not reported,1969,0-999 US$ (0-910 Euro),999
-29,Technische Universiteit Delft,Delft,Netherlands,136,4,https://www.unirank.org/nl/uni/technische-universiteit-delft/,large-sized,moderately selective,1842,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-30,Rheinisch-Westfälische Technische Hochschule Aachen,Aachen,Germany,137,6,https://www.unirank.org/de/uni/rheinisch-westfalische-technische-hochschule-aachen/,very large-sized,not reported,1870,0-999 US$ (0-910 Euro),999
-31,Rijksuniversiteit Groningen,Groningen,Netherlands,139,5,https://www.unirank.org/nl/uni/rijksuniversiteit-groningen/,very large-sized,not reported,1614,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-32,University of Leeds,Leeds,United Kingdom,141,13,https://www.unirank.org/gb/uni/university-of-leeds/,very large-sized,not reported,1904,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999"
-33,Universität Hamburg,Hamburg,Germany,142,7,https://www.unirank.org/de/uni/universitat-hamburg/,very large-sized,not reported,1919,0-999 US$ (0-910 Euro),999
-34,Københavns Universitet,Copenhagen,Denmark,144,1,https://www.unirank.org/dk/uni/kobenhavns-universitet/,very large-sized,not reported,1479,0-999 US$ (0-910 Euro),999
-35,Universität Zürich,Zürich,Switzerland,145,3,https://www.unirank.org/ch/uni/universitat-zurich/,large-sized,not reported,1833,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-36,Université de Strasbourg,Strasbourg,France,148,1,https://www.unirank.org/fr/uni/universite-de-strasbourg/,very large-sized,not reported,1621,0-999 US$ (0-910 Euro),999
-37,Universiteit Gent,Ghent,Belgium,151,2,https://www.unirank.org/be/uni/universiteit-gent/,very large-sized,not available,1817,0-999 US$ (0-910 Euro),999
-38,Humboldt-Universität zu Berlin,Berlin,Germany,153,8,https://www.unirank.org/de/uni/humboldt-universitat-zu-berlin/,very large-sized,not reported,1809,0-999 US$ (0-910 Euro),999
-39,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,155,9,https://www.unirank.org/de/uni/rheinische-friedrich-wilhelms-universitat-bonn/,large-sized,not reported,1818,0-999 US$ (0-910 Euro),999
-40,Ruhr-Universität Bochum,Bochum,Germany,159,10,https://www.unirank.org/de/uni/ruhr-universitat-bochum/,very large-sized,not reported,1962,0-999 US$ (0-910 Euro),999
-41,Norges teknisk-naturvitenskaplige universitet,Trondheim,Norway,160,2,https://www.unirank.org/no/uni/norges-teknisk-naturvitenskaplige-universitet/,very large-sized,not reported,1996,0-999 US$ (0-910 Euro),999
-42,Lunds Universitet,Lund,Sweden,163,1,https://www.unirank.org/se/uni/lunds-universitet/,large-sized,not reported,1666,0-999 US$ (0-910 Euro),999
-43,Universidad Complutense de Madrid,Madrid,Spain,165,2,https://www.unirank.org/es/uni/universidad-complutense-de-madrid/,very large-sized,moderately selective,1293,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-44,Université de Genève,Geneva,Switzerland,166,4,https://www.unirank.org/ch/uni/universite-de-geneve/,large-sized,not reported,1835,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-45,Karlsruher Institut für Technologie,Karlsruhe,Germany,168,11,https://www.unirank.org/de/uni/karlsruher-institut-fur-technologie/,large-sized,very selective,2009,0-999 US$ (0-910 Euro),999
-46,Universität zu Köln,Cologne,Germany,170,12,https://www.unirank.org/de/uni/universitat-zu-koln/,very large-sized,not reported,1388,0-999 US$ (0-910 Euro),999
-47,University of Nottingham,Nottingham,United Kingdom,172,14,https://www.unirank.org/gb/uni/university-of-nottingham/,very large-sized,not reported,1948,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-48,Università degli Studi di Padova,Padua,Italy,173,2,https://www.unirank.org/it/uni/universita-degli-studi-di-padova/,very large-sized,not reported,1222,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-49,The University of York,York,United Kingdom,175,15,https://www.unirank.org/gb/uni/the-university-of-york/,large-sized,not reported,1963,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-50,Uppsala Universitet,Uppsala,Sweden,176,2,https://www.unirank.org/se/uni/uppsala-universitet/,large-sized,moderately selective,1477,0-999 US$ (0-910 Euro),999
-51,Eberhard Karls Universität Tübingen,Tübingen,Germany,177,13,https://www.unirank.org/de/uni/eberhard-karls-universitat-tubingen/,large-sized,not available,1477,0-999 US$ (0-910 Euro),999
-52,Goethe-Universität Frankfurt am Main,Frankfurt am Main,Germany,178,14,https://www.unirank.org/de/uni/goethe-universitat-frankfurt-am-main/,very large-sized,not available,1914,0-999 US$ (0-910 Euro),999
-53,Newcastle University,Newcastle upon Tyne,United Kingdom,179,16,https://www.unirank.org/gb/uni/newcastle-university/,large-sized,not reported,1963,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-54,Aarhus Universitet,Aarhus,Denmark,181,2,https://www.unirank.org/dk/uni/aarhus-universitet/,large-sized,not reported,1928,0-999 US$ (0-910 Euro),999
-55,Kungliga Tekniska högskolan,Stockholm,Sweden,183,3,https://www.unirank.org/se/uni/kungliga-tekniska-hogskolan/,large-sized,averagely selective,1827,0-999 US$ (0-910 Euro),999
-56,University of Liverpool,Liverpool,United Kingdom,186,17,https://www.unirank.org/gb/uni/university-of-liverpool/,large-sized,not reported,1882,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-57,Technische Universität Berlin,Berlin,Germany,188,15,https://www.unirank.org/de/uni/technische-universitat-berlin/,large-sized,not reported,1946,0-999 US$ (0-910 Euro),999
-58,University of St Andrews,St Andrews,United Kingdom,191,18,https://www.unirank.org/gb/uni/university-of-st-andrews/,medium-sized,not reported,1413,0-999 US$ (0-910 Euro),999
-59,Universidad Autónoma de Barcelona,Cerdanyola del Vallès,Spain,193,3,https://www.unirank.org/es/uni/universidad-autonoma-de-barcelona/,very large-sized,not reported,1968,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-60,University of Exeter,Exeter,United Kingdom,195,19,https://www.unirank.org/gb/uni/university-of-exeter/,large-sized,not reported,1955,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-61,Technische Universität Dresden,Dresden,Germany,196,16,https://www.unirank.org/de/uni/technische-universitat-dresden/,very large-sized,not reported,1828,0-999 US$ (0-910 Euro),999
-62,Tampereen yliopisto,Tampere,Finland,197,2,https://www.unirank.org/fi/uni/tampereen-yliopisto/,large-sized,extremely selective,1925,0-999 US$ (0-910 Euro),999
-63,Univerzita Karlova,Prague,Czech Republic,198,1,https://www.unirank.org/cz/uni/univerzita-karlova/,very large-sized,very selective,1348,0-999 US$ (0-910 Euro),999
-64,Durham University,Durham,United Kingdom,203,20,https://www.unirank.org/gb/uni/durham-university/,large-sized,not reported,1832,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-65,Universidad de Granada,Granada,Spain,204,4,https://www.unirank.org/es/uni/universidad-de-granada/,very large-sized,not reported,1531,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-66,Université de Liège,Liège,Belgium,206,3,https://www.unirank.org/be/uni/universite-de-liege/,large-sized,not available,1817,0-999 US$ (0-910 Euro),999
-67,Lancaster University,Lancaster,United Kingdom,207,21,https://www.unirank.org/gb/uni/lancaster-university/,large-sized,very selective,1964,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-68,Technische Universität Wien,Vienna,Austria,208,2,https://www.unirank.org/at/uni/technische-universitat-wien/,large-sized,not reported,1872,0-999 US$ (0-910 Euro),999
-69,Politecnico di Milano,Milan,Italy,209,3,https://www.unirank.org/it/uni/politecnico-di-milano/,very large-sized,not reported,1863,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-70,Westfälische Wilhelms-Universität Münster,Münster,Germany,211,17,https://www.unirank.org/de/uni/westfalische-wilhelms-universitat-munster/,large-sized,extremely selective,1780,0-999 US$ (0-910 Euro),999
-71,Universidad Politécnica de Madrid,Madrid,Spain,212,5,https://www.unirank.org/es/uni/universidad-politecnica-de-madrid/,very large-sized,not reported,1971,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-72,Aalto-yliopisto,Espoo,Finland,213,3,https://www.unirank.org/fi/uni/aalto-yliopisto/,large-sized,extremely selective,2010,0-999 US$ (0-910 Euro),999
-73,National Research University Higher School of Economics,Moscow,Russia,215,1,https://www.unirank.org/ru/uni/national-research-university-higher-school-of-economics/,very large-sized,not reported,1992,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-74,Université Catholique de Louvain,Louvain-la-Neuve,Belgium,217,4,https://www.unirank.org/be/uni/universite-catholique-de-louvain/,large-sized,not reported,1425,0-999 US$ (0-910 Euro),999
-75,Masarykova univerzita,Brno,Czech Republic,218,2,https://www.unirank.org/cz/uni/masarykova-univerzita/,very large-sized,very selective,1919,Not reported,
-76,Vrije Universiteit Amsterdam,Amsterdam,Netherlands,219,6,https://www.unirank.org/nl/uni/vrije-universiteit-amsterdam/,large-sized,not reported,1880,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-77,Universidade de Lisboa,Lisbon,Portugal,220,1,https://www.unirank.org/pt/uni/universidade-de-lisboa/,very large-sized,not reported,1911,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-78,Linköpings Universitet,Linköping,Sweden,222,4,https://www.unirank.org/se/uni/linkopings-universitet/,large-sized,averagely selective,1975,0-999 US$ (0-910 Euro),999
-79,"Trinity College Dublin, University of Dublin",Dublin,Ireland,225,1,https://www.unirank.org/ie/uni/trinity-college-dublin-university-of-dublin/,large-sized,not reported,1592,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-80,Universität Bern,Bern,Switzerland,226,5,https://www.unirank.org/ch/uni/universitat-bern/,large-sized,not reported,1834,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-81,Sapienza Università di Roma,Rome,Italy,227,4,https://www.unirank.org/it/uni/sapienza-universita-di-roma/,very large-sized,not reported,1303,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-82,Albert-Ludwigs-Universität Freiburg,Freiburg im Breisgau,Germany,228,18,https://www.unirank.org/de/uni/albert-ludwigs-universitat-freiburg/,large-sized,not available,1457,0-999 US$ (0-910 Euro),999
-83,Moscow State University,Moscow,Russia,229,2,https://www.unirank.org/ru/uni/moscow-state-university/,large-sized,not reported,1755,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-84,Universidad de Valencia,Valencia,Spain,230,6,https://www.unirank.org/es/uni/universidad-de-valencia/,very large-sized,averagely selective,1499,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-85,Università degli Studi di Torino,Turin,Italy,233,5,https://www.unirank.org/it/uni/universita-degli-studi-di-torino/,very large-sized,not available,1404,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-86,Universidad Politécnica de Cataluña,Barcelona,Spain,235,7,https://www.unirank.org/es/uni/universidad-politecnica-de-cataluna/,large-sized,not reported,1971,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-87,Universität Stuttgart,Stuttgart,Germany,236,19,https://www.unirank.org/de/uni/universitat-stuttgart/,large-sized,not reported,1829,0-999 US$ (0-910 Euro),999
-88,Universität Leipzig,Leipzig,Germany,238,20,https://www.unirank.org/de/uni/universitat-leipzig/,large-sized,not reported,1409,0-999 US$ (0-910 Euro),999
-89,University of Bristol,Bristol,United Kingdom,240,22,https://www.unirank.org/gb/uni/university-of-bristol/,large-sized,not reported,1909,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999"
-90,Universiteit Twente,Enschede,Netherlands,243,7,https://www.unirank.org/nl/uni/universiteit-twente/,medium-sized,not reported,1961,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-91,Universitetet i Bergen,Bergen,Norway,244,3,https://www.unirank.org/no/uni/universitetet-i-bergen/,large-sized,not reported,1946,0-999 US$ (0-910 Euro),999
-92,Georg-August-Universität Göttingen,Göttingen,Germany,245,21,https://www.unirank.org/de/uni/georg-august-universitat-gottingen/,large-sized,not reported,1734,0-999 US$ (0-910 Euro),999
-93,Johannes Gutenberg-Universität Mainz,Mainz,Germany,246,22,https://www.unirank.org/de/uni/johannes-gutenberg-universitat-mainz/,very large-sized,not available,1946,0-999 US$ (0-910 Euro),999
-94,Universidad Politécnica de València,Valencia,Spain,249,8,https://www.unirank.org/es/uni/universidad-politecnica-de-valencia/,very large-sized,least selective,1968,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-95,Université Paris Cité,Paris,France,250,2,https://www.unirank.org/fr/uni/universite-paris-cite/,very large-sized,not reported,2019,0-999 US$ (0-910 Euro),999
-96,Université de Lille,Lille,France,252,3,https://www.unirank.org/fr/uni/universite-de-lille/,very large-sized,not reported,2018,0-999 US$ (0-910 Euro),999
-97,Wageningen Universiteit,Wageningen,Netherlands,253,8,https://www.unirank.org/nl/uni/wageningen-universiteit/,large-sized,not reported,1918,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-98,Queen Mary University of London,London,United Kingdom,254,23,https://www.unirank.org/gb/uni/queen-mary-university-of-london/,large-sized,not reported,1989,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-99,Technische Universiteit Eindhoven,Eindhoven,Netherlands,256,9,https://www.unirank.org/nl/uni/technische-universiteit-eindhoven/,large-sized,not reported,1956,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-100,Università degli Studi di Milano,Milan,Italy,261,6,https://www.unirank.org/it/uni/universita-degli-studi-di-milano/,very large-sized,not available,1924,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-101,Göteborgs universitet,Gothenburg,Sweden,264,5,https://www.unirank.org/se/uni/goteborgs-universitet/,very large-sized,not reported,1891,0-999 US$ (0-910 Euro),999
-102,"City St George's, University of London",London,United Kingdom,265,24,https://www.unirank.org/gb/uni/city-st-george-s-university-of-london/,large-sized,not reported,1733,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-103,Universidad del País Vasco,Leioa,Spain,269,9,https://www.unirank.org/es/uni/universidad-del-pais-vasco/,very large-sized,not reported,1968,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-104,University of Surrey,Guildford,United Kingdom,274,25,https://www.unirank.org/gb/uni/university-of-surrey/,large-sized,not reported,1966,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-105,Leibniz Universität Hannover,Hannover,Germany,276,23,https://www.unirank.org/de/uni/leibniz-universitat-hannover/,large-sized,not reported,1831,0-999 US$ (0-910 Euro),999
-106,Sorbonne Université,Paris,France,277,4,https://www.unirank.org/fr/uni/sorbonne-universite/,very large-sized,not reported,2018,0-999 US$ (0-910 Euro),999
-107,University of Bath,Bath,United Kingdom,278,26,https://www.unirank.org/gb/uni/university-of-bath/,large-sized,extremely selective,1966,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-108,Stockholms universitet,Stockholm,Sweden,283,6,https://www.unirank.org/se/uni/stockholms-universitet/,very large-sized,not reported,1878,0-999 US$ (0-910 Euro),999
-109,Universität Innsbruck,Innsbruck,Austria,284,3,https://www.unirank.org/at/uni/universitat-innsbruck/,large-sized,not available,1669,0-999 US$ (0-910 Euro),999
-110,University of Sheffield,Sheffield,United Kingdom,286,27,https://www.unirank.org/gb/uni/university-of-sheffield/,large-sized,not reported,1905,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-111,University of Reading,Reading,United Kingdom,287,28,https://www.unirank.org/gb/uni/university-of-reading/,large-sized,not reported,1892,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-112,Universidad de Sevilla,Seville,Spain,289,10,https://www.unirank.org/es/uni/universidad-de-sevilla/,very large-sized,not reported,1505,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-113,Technische Universität Darmstadt,Darmstadt,Germany,291,24,https://www.unirank.org/de/uni/technische-universitat-darmstadt/,large-sized,not available,1877,0-999 US$ (0-910 Euro),999
-114,Uniwersytet Warszawski,Warsaw,Poland,292,1,https://www.unirank.org/pl/uni/uniwersytet-warszawski/,very large-sized,very selective,1816,0-999 US$ (0-910 Euro),999
-115,Danmarks Tekniske Universitet,Kongens Lyngby,Denmark,295,3,https://www.unirank.org/dk/uni/danmarks-tekniske-universitet/,medium-sized,not reported,1829,0-999 US$ (0-910 Euro),999
-116,University of Leicester,Leicester,United Kingdom,296,29,https://www.unirank.org/gb/uni/university-of-leicester/,large-sized,not reported,1957,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-117,Universidade do Porto,Porto,Portugal,297,2,https://www.unirank.org/pt/uni/universidade-do-porto/,very large-sized,not reported,1911,0-999 US$ (0-910 Euro),999
-118,Univerzitet u Beogradu,Belgrade,Serbia,299,1,https://www.unirank.org/rs/uni/univerzitet-u-beogradu/,very large-sized,not reported,1905,Not reported,
-119,Radboud Universiteit,Nijmegen,Netherlands,304,10,https://www.unirank.org/nl/uni/radboud-universiteit/,large-sized,not reported,1923,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-120,Heinrich-Heine-Universität Düsseldorf,Düsseldorf,Germany,306,25,https://www.unirank.org/de/uni/heinrich-heine-universitat-dusseldorf/,large-sized,not reported,1965,0-999 US$ (0-910 Euro),999
-121,Universität Bremen,Bremen,Germany,308,26,https://www.unirank.org/de/uni/universitat-bremen/,large-sized,not reported,1971,0-999 US$ (0-910 Euro),999
-122,Julius-Maximilians-Universität Würzburg,Würzburg,Germany,317,27,https://www.unirank.org/de/uni/julius-maximilians-universitat-wurzburg/,large-sized,not reported,1402,0-999 US$ (0-910 Euro),999
-123,University of Sussex,Brighton,United Kingdom,318,30,https://www.unirank.org/gb/uni/university-of-sussex/,large-sized,not reported,1961,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-124,University College Dublin,Dublin,Ireland,319,2,https://www.unirank.org/ie/uni/university-college-dublin/,large-sized,very selective,1854,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-125,Università degli Studi di Pisa,Pisa,Italy,320,7,https://www.unirank.org/it/uni/universita-degli-studi-di-pisa/,very large-sized,very selective,1343,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-126,Université Libre de Bruxelles,Brussels,Belgium,321,5,https://www.unirank.org/be/uni/universite-libre-de-bruxelles/,large-sized,not available,1834,0-999 US$ (0-910 Euro),999
-127,Politecnico di Torino,Turin,Italy,329,8,https://www.unirank.org/it/uni/politecnico-di-torino/,large-sized,not reported,1859,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-128,Chalmers tekniska högskola,Gothenburg,Sweden,331,7,https://www.unirank.org/se/uni/chalmers-tekniska-hogskola/,medium-sized,moderately selective,1829,0-999 US$ (0-910 Euro),999
-129,Eötvös Loránd Tudományegyetem,Budapest,Hungary,333,1,https://www.unirank.org/hu/uni/eotvos-lorand-tudomanyegyetem/,very large-sized,very selective,1635,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-130,Universität Basel,Basel,Switzerland,336,6,https://www.unirank.org/ch/uni/universitat-basel/,medium-sized,not reported,1460,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-131,Umeå universitet,Umeå,Sweden,337,8,https://www.unirank.org/se/uni/umea-universitet/,large-sized,not reported,1965,0-999 US$ (0-910 Euro),999
-132,Université de Lorraine,Nancy,France,338,5,https://www.unirank.org/fr/uni/universite-de-lorraine/,very large-sized,extremely selective,2012,0-999 US$ (0-910 Euro),999
-133,Queen's University Belfast,Belfast,United Kingdom,339,31,https://www.unirank.org/gb/uni/queen-s-university-belfast/,large-sized,very selective,1849,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-134,Universität Bielefeld,Bielefeld,Germany,343,28,https://www.unirank.org/de/uni/universitat-bielefeld/,large-sized,not available,1969,0-999 US$ (0-910 Euro),999
-135,Univerza v Ljubljani,Ljubljana,Slovenia,344,1,https://www.unirank.org/si/uni/univerza-v-ljubljani/,very large-sized,not reported,1919,Not reported,
-136,Université Grenoble Alpes,Saint-Martin-d'Hères,France,345,6,https://www.unirank.org/fr/uni/universite-grenoble-alpes/,very large-sized,not reported,1339,0-999 US$ (0-910 Euro),999
-137,Université de Bordeaux,Bordeaux,France,346,7,https://www.unirank.org/fr/uni/universite-de-bordeaux/,very large-sized,not reported,1441,0-999 US$ (0-910 Euro),999
-138,University of East Anglia,Norwich,United Kingdom,347,32,https://www.unirank.org/gb/uni/university-of-east-anglia/,large-sized,not reported,1963,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-139,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,Kaiserslautern,Germany,349,29,https://www.unirank.org/de/uni/rheinland-pfalzische-technische-universitat-kaiserslautern-landau/,large-sized,not available,1970,0-999 US$ (0-910 Euro),999
-140,Christian-Albrechts-Universität zu Kiel,Kiel,Germany,353,30,https://www.unirank.org/de/uni/christian-albrechts-universitat-zu-kiel/,large-sized,not available,1665,0-999 US$ (0-910 Euro),999
-141,Universidad Pompeu Fabra,Barcelona,Spain,355,11,https://www.unirank.org/es/uni/universidad-pompeu-fabra/,large-sized,not reported,1990,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-142,University of Kent,Canterbury,United Kingdom,358,33,https://www.unirank.org/gb/uni/university-of-kent/,large-sized,not reported,1965,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999"
-143,Cardiff University,Cardiff,United Kingdom,364,34,https://www.unirank.org/gb/uni/cardiff-university/,large-sized,not reported,1997,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-144,Friedrich-Schiller-Universität Jena,Jena,Germany,366,31,https://www.unirank.org/de/uni/friedrich-schiller-universitat-jena/,large-sized,moderately selective,1558,0-999 US$ (0-910 Euro),999
-145,University of Strathclyde,Glasgow,United Kingdom,369,35,https://www.unirank.org/gb/uni/university-of-strathclyde/,large-sized,not reported,1964,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-146,Vrije Universiteit Brussel,Brussels,Belgium,372,6,https://www.unirank.org/be/uni/vrije-universiteit-brussel/,large-sized,very selective,1970,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-147,Universidade de Coimbra,Coimbra,Portugal,374,3,https://www.unirank.org/pt/uni/universidade-de-coimbra/,large-sized,averagely selective,1290,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-148,Uniwersytet Jagielloński,Krakow,Poland,379,2,https://www.unirank.org/pl/uni/uniwersytet-jagiellonski/,very large-sized,very selective,1364,0-999 US$ (0-910 Euro),999
-149,Aristotle University of Thessaloniki,Thessaloniki,Greece,381,1,https://www.unirank.org/gr/uni/aristotle-university-of-thessaloniki/,very large-sized,not reported,1925,0-999 US$ (0-910 Euro),999
-150,Universidad Autónoma de Madrid,Madrid,Spain,382,12,https://www.unirank.org/es/uni/universidad-autonoma-de-madrid/,large-sized,not reported,1968,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-151,University of Aberdeen,Aberdeen,United Kingdom,383,36,https://www.unirank.org/gb/uni/university-of-aberdeen/,large-sized,not reported,1495,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-152,Universiteit Antwerpen,Antwerp,Belgium,385,7,https://www.unirank.org/be/uni/universiteit-antwerpen/,large-sized,not available,2003,0-999 US$ (0-910 Euro),999
-153,Université Claude Bernard Lyon 1,Villeurbanne,France,388,8,https://www.unirank.org/fr/uni/universite-claude-bernard-lyon-1/,large-sized,not reported,1971,0-999 US$ (0-910 Euro),999
-154,Università degli Studi di Firenze,Florence,Italy,389,9,https://www.unirank.org/it/uni/universita-degli-studi-di-firenze/,very large-sized,not reported,1321,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-155,National and Kapodistrian University of Athens,Athens,Greece,394,2,https://www.unirank.org/gr/uni/national-and-kapodistrian-university-of-athens/,very large-sized,not reported,1837,0-999 US$ (0-910 Euro),999
-156,Loughborough University,Loughborough,United Kingdom,395,37,https://www.unirank.org/gb/uni/loughborough-university/,large-sized,not reported,1966,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-157,Universidad de Murcia,Murcia,Spain,397,13,https://www.unirank.org/es/uni/universidad-de-murcia/,large-sized,moderately selective,1272,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-158,Universidad de Zaragoza,Zaragoza,Spain,401,14,https://www.unirank.org/es/uni/universidad-de-zaragoza/,large-sized,not reported,1542,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-159,Université de Lausanne,Lausanne,Switzerland,402,7,https://www.unirank.org/ch/uni/universite-de-lausanne/,large-sized,not reported,1537,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-160,Universität Potsdam,Potsdam,Germany,403,32,https://www.unirank.org/de/uni/universitat-potsdam/,large-sized,not available,1991,0-999 US$ (0-910 Euro),999
-161,Università degli Studi di Napoli Federico II,Naples,Italy,405,10,https://www.unirank.org/it/uni/universita-degli-studi-di-napoli-federico-ii/,very large-sized,not reported,1224,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-162,Universität Ulm,Ulm,Germany,407,33,https://www.unirank.org/de/uni/universitat-ulm/,large-sized,not reported,1967,0-999 US$ (0-910 Euro),999
-163,Universität Regensburg,Regensburg,Germany,408,34,https://www.unirank.org/de/uni/universitat-regensburg/,large-sized,not reported,1962,0-999 US$ (0-910 Euro),999
-164,Karolinska Institutet,Stockholm,Sweden,409,9,https://www.unirank.org/se/uni/karolinska-institutet/,medium-sized,not reported,1861,0-999 US$ (0-910 Euro),999
-165,Martin-Luther-Universität Halle-Wittenberg,Halle,Germany,411,35,https://www.unirank.org/de/uni/martin-luther-universitat-halle-wittenberg/,large-sized,averagely selective,1817,0-999 US$ (0-910 Euro),999
-166,Otto-von-Guericke-Universität Magdeburg,Magdeburg,Germany,412,36,https://www.unirank.org/de/uni/otto-von-guericke-universitat-magdeburg/,large-sized,not reported,1993,0-999 US$ (0-910 Euro),999
-167,Universidad de Alicante,San Vicente del Raspeig,Spain,415,15,https://www.unirank.org/es/uni/universidad-de-alicante/,large-sized,moderately selective,1979,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-168,Erasmus Universiteit Rotterdam,Rotterdam,Netherlands,417,11,https://www.unirank.org/nl/uni/erasmus-universiteit-rotterdam/,very large-sized,not reported,1913,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-169,Universität Duisburg-Essen,Essen,Germany,418,37,https://www.unirank.org/de/uni/universitat-duisburg-essen/,very large-sized,not available,2003,0-999 US$ (0-910 Euro),999
-170,Philipps-Universität Marburg,Marburg,Germany,419,38,https://www.unirank.org/de/uni/philipps-universitat-marburg/,large-sized,not reported,1527,0-999 US$ (0-910 Euro),999
-171,Universität Paderborn,Paderborn,Germany,421,39,https://www.unirank.org/de/uni/universitat-paderborn/,large-sized,not reported,1972,0-999 US$ (0-910 Euro),999
-172,Carl von Ossietzky Universität Oldenburg,Oldenburg,Germany,425,40,https://www.unirank.org/de/uni/carl-von-ossietzky-universitat-oldenburg/,large-sized,not reported,1973,0-999 US$ (0-910 Euro),999
-173,University College Cork,Cork,Ireland,426,3,https://www.unirank.org/ie/uni/university-college-cork/,large-sized,not reported,1845,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-174,Université Côte d'Azur,Nice,France,429,9,https://www.unirank.org/fr/uni/universite-cote-d-azur/,very large-sized,not reported,1965,0-999 US$ (0-910 Euro),999
-175,École Normale Supérieure,Paris,France,430,10,https://www.unirank.org/fr/uni/ecole-normale-superieure/,small-sized,not reported,1794,0-999 US$ (0-910 Euro),999
-176,Charité - Universitätsmedizin Berlin,Berlin,Germany,431,41,https://www.unirank.org/de/uni/charite---universitatsmedizin-berlin/,medium-sized,not available,1710,Not reported,
-177,University of Essex,Colchester,United Kingdom,433,38,https://www.unirank.org/gb/uni/university-of-essex/,large-sized,not reported,1964,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-178,Universidad de Málaga,Málaga,Spain,435,16,https://www.unirank.org/es/uni/universidad-de-malaga/,very large-sized,not reported,1972,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-179,Tartu Ülikool,Tartu,Estonia,436,1,https://www.unirank.org/ee/uni/tartu-ulikool/,medium-sized,not reported,1632,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999"
-180,Technische Universität Chemnitz,Chemnitz,Germany,438,42,https://www.unirank.org/de/uni/technische-universitat-chemnitz/,large-sized,not available,1836,0-999 US$ (0-910 Euro),999
-181,Universidad Carlos III de Madrid,Getafe,Spain,439,17,https://www.unirank.org/es/uni/universidad-carlos-iii-de-madrid/,large-sized,not reported,1989,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-182,St. Petersburg State University,Saint Petersburg,Russia,447,3,https://www.unirank.org/ru/uni/st-petersburg-state-university/,large-sized,not reported,1724,Not reported,
-183,Université Paris-Saclay,Saint-Aubin,France,449,11,https://www.unirank.org/fr/uni/universite-paris-saclay/,very large-sized,not reported,2014,0-999 US$ (0-910 Euro),999
-184,École Normale Supérieure de Lyon,Lyon,France,450,12,https://www.unirank.org/fr/uni/ecole-normale-superieure-de-lyon/,small-sized,not reported,1987,0-999 US$ (0-910 Euro),999
-185,Justus-Liebig-Universität Giessen,Giessen,Germany,453,43,https://www.unirank.org/de/uni/justus-liebig-universitat-giessen/,large-sized,not reported,1607,0-999 US$ (0-910 Euro),999
-186,Technische Universität Graz,Graz,Austria,454,4,https://www.unirank.org/at/uni/technische-universitat-graz/,medium-sized,not available,1874,0-999 US$ (0-910 Euro),999
-187,Aalborg Universitet,Aalborg,Denmark,456,4,https://www.unirank.org/dk/uni/aalborg-universitet/,large-sized,not reported,1974,0-999 US$ (0-910 Euro),999
-188,Budapesti Műszaki és Gazdaságtudományi Egyetem,Budapest,Hungary,457,2,https://www.unirank.org/hu/uni/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/,large-sized,not reported,1782,0-999 US$ (0-910 Euro),999
-189,Université de Montpellier,Montpellier,France,458,13,https://www.unirank.org/fr/uni/universite-de-montpellier/,very large-sized,not reported,1289,0-999 US$ (0-910 Euro),999
-190,Universidad de Salamanca,Salamanca,Spain,460,18,https://www.unirank.org/es/uni/universidad-de-salamanca/,large-sized,not reported,1218,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-191,Jyväskylän yliopisto,Jyväskylä,Finland,461,4,https://www.unirank.org/fi/uni/jyvaskylan-yliopisto/,large-sized,not reported,1934,0-999 US$ (0-910 Euro),999
-192,Universität Graz,Graz,Austria,466,5,https://www.unirank.org/at/uni/universitat-graz/,large-sized,least selective,1585,0-999 US$ (0-910 Euro),999
-193,Heriot-Watt University,Edinburgh,United Kingdom,470,39,https://www.unirank.org/gb/uni/heriot-watt-university/,medium-sized,not reported,1966,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-194,České vysoké učení technické v Praze,Prague,Czech Republic,474,3,https://www.unirank.org/cz/uni/ceske-vysoke-uceni-technicke-v-praze/,large-sized,moderately selective,1707,Not reported,
-195,Turun yliopisto,Turku,Finland,475,5,https://www.unirank.org/fi/uni/turun-yliopisto/,large-sized,extremely selective,1920,0-999 US$ (0-910 Euro),999
-196,Universität Konstanz,Konstanz,Germany,476,44,https://www.unirank.org/de/uni/universitat-konstanz/,small-sized,not reported,1966,0-999 US$ (0-910 Euro),999
-197,Institut d'Études Politiques de Paris,Paris,France,477,14,https://www.unirank.org/fr/uni/institut-d-etudes-politiques-de-paris/,medium-sized,extremely selective,1872,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499"
-198,Universität des Saarlandes,Saarbrücken,Germany,482,45,https://www.unirank.org/de/uni/universitat-des-saarlandes/,large-sized,very selective,1948,0-999 US$ (0-910 Euro),999
-199,Università degli Studi di Trento,Trento,Italy,484,11,https://www.unirank.org/it/uni/universita-degli-studi-di-trento/,large-sized,averagely selective,1962,"1,000-2,499 US$ (910-2,280 Euro)","2,499"
-200,Syddansk Universitet,Odense,Denmark,486,5,https://www.unirank.org/dk/uni/syddansk-universitet/,large-sized,very selective,1966,0-999 US$ (0-910 Euro),999
+1,University of Oxford,Oxford,United Kingdom,9,1,https://www.unirank.org/gb/uni/university-of-oxford/,large-sized,very selective,1096,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999 US$"
+2,University of Cambridge,Cambridge,United Kingdom,16,2,https://www.unirank.org/gb/uni/university-of-cambridge/,large-sized,extremely selective,1209,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999 US$"
+3,University College London,London,United Kingdom,41,3,https://www.unirank.org/gb/uni/university-college-london/,very large-sized,not reported,1826,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+4,Eidgenössische Technische Hochschule Zürich,Zürich,Switzerland,45,1,https://www.unirank.org/ch/uni/eidgenossische-technische-hochschule-zurich/,large-sized,not reported,1855,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+5,University of Edinburgh,Edinburgh,United Kingdom,50,4,https://www.unirank.org/gb/uni/university-of-edinburgh/,very large-sized,not reported,1583,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+6,Ludwig-Maximilians-Universität München,Munich,Germany,71,1,https://www.unirank.org/de/uni/ludwig-maximilians-universitat-munchen/,very large-sized,not reported,1472,0-999 US$ (0-910 Euro),999 US$
+7,The London School of Economics and Political Science,London,United Kingdom,73,5,https://www.unirank.org/gb/uni/the-london-school-of-economics-and-political-science/,large-sized,not reported,1895,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+8,Universität Wien,Vienna,Austria,82,1,https://www.unirank.org/at/uni/universitat-wien/,very large-sized,not available,1365,0-999 US$ (0-910 Euro),999 US$
+9,Katholieke Universiteit Leuven,Leuven,Belgium,93,1,https://www.unirank.org/be/uni/katholieke-universiteit-leuven/,very large-sized,not reported,1425,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+10,Alma Mater Studiorum Università di Bologna,Bologna,Italy,96,1,https://www.unirank.org/it/uni/alma-mater-studiorum-universita-di-bologna/,very large-sized,averagely selective,1088,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+11,University of Manchester,Manchester,United Kingdom,97,6,https://www.unirank.org/gb/uni/university-of-manchester/,very large-sized,not reported,1824,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999 US$"
+12,University of Glasgow,Glasgow,United Kingdom,103,7,https://www.unirank.org/gb/uni/university-of-glasgow/,large-sized,not reported,1451,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+13,Imperial College London,London,United Kingdom,105,8,https://www.unirank.org/gb/uni/imperial-college-london/,large-sized,not reported,1907,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+14,Technische Universität München,Munich,Germany,106,2,https://www.unirank.org/de/uni/technische-universitat-munchen/,very large-sized,not available,1868,0-999 US$ (0-910 Euro),999 US$
+15,University of Southampton,Southampton,United Kingdom,109,9,https://www.unirank.org/gb/uni/university-of-southampton/,large-sized,not reported,1952,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+16,Ruprecht-Karls-Universität Heidelberg,Heidelberg,Germany,110,3,https://www.unirank.org/de/uni/ruprecht-karls-universitat-heidelberg/,very large-sized,not reported,1386,0-999 US$ (0-910 Euro),999 US$
+17,King's College London,London,United Kingdom,115,10,https://www.unirank.org/gb/uni/king-s-college-london/,large-sized,not reported,1829,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+18,Freie Universität Berlin,Berlin,Germany,117,4,https://www.unirank.org/de/uni/freie-universitat-berlin/,large-sized,not reported,1948,0-999 US$ (0-910 Euro),999 US$
+19,Helsingin yliopisto,Helsinki,Finland,119,1,https://www.unirank.org/fi/uni/helsingin-yliopisto/,large-sized,extremely selective,1640,0-999 US$ (0-910 Euro),999 US$
+20,Universiteit Utrecht,Utrecht,Netherlands,121,1,https://www.unirank.org/nl/uni/universiteit-utrecht/,very large-sized,not reported,1636,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+21,University of Warwick,Coventry,United Kingdom,122,11,https://www.unirank.org/gb/uni/university-of-warwick/,large-sized,not reported,1965,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999 US$"
+22,Universiteit van Amsterdam,Amsterdam,Netherlands,123,2,https://www.unirank.org/nl/uni/universiteit-van-amsterdam/,large-sized,not reported,1632,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+23,Universidad de Barcelona,Barcelona,Spain,125,1,https://www.unirank.org/es/uni/universidad-de-barcelona/,very large-sized,moderately selective,1450,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+24,University of Birmingham,Birmingham,United Kingdom,126,12,https://www.unirank.org/gb/uni/university-of-birmingham/,very large-sized,not reported,1900,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+25,Universitetet i Oslo,Oslo,Norway,128,1,https://www.unirank.org/no/uni/universitetet-i-oslo/,large-sized,not reported,1811,0-999 US$ (0-910 Euro),999 US$
+26,Universiteit Leiden,Leiden,Netherlands,129,3,https://www.unirank.org/nl/uni/universiteit-leiden/,very large-sized,not reported,1575,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+27,Friedrich-Alexander-Universität Erlangen-Nürnberg,Erlangen,Germany,132,5,https://www.unirank.org/de/uni/friedrich-alexander-universitat-erlangen-nurnberg/,very large-sized,averagely selective,1743,0-999 US$ (0-910 Euro),999 US$
+28,École Polytechnique Fédérale de Lausanne,Lausanne,Switzerland,134,2,https://www.unirank.org/ch/uni/ecole-polytechnique-federale-de-lausanne/,large-sized,not reported,1969,0-999 US$ (0-910 Euro),999 US$
+29,Technische Universiteit Delft,Delft,Netherlands,136,4,https://www.unirank.org/nl/uni/technische-universiteit-delft/,large-sized,moderately selective,1842,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+30,Rheinisch-Westfälische Technische Hochschule Aachen,Aachen,Germany,137,6,https://www.unirank.org/de/uni/rheinisch-westfalische-technische-hochschule-aachen/,very large-sized,not reported,1870,0-999 US$ (0-910 Euro),999 US$
+31,Rijksuniversiteit Groningen,Groningen,Netherlands,139,5,https://www.unirank.org/nl/uni/rijksuniversiteit-groningen/,very large-sized,not reported,1614,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+32,University of Leeds,Leeds,United Kingdom,141,13,https://www.unirank.org/gb/uni/university-of-leeds/,very large-sized,not reported,1904,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999 US$"
+33,Universität Hamburg,Hamburg,Germany,142,7,https://www.unirank.org/de/uni/universitat-hamburg/,very large-sized,not reported,1919,0-999 US$ (0-910 Euro),999 US$
+34,Københavns Universitet,Copenhagen,Denmark,144,1,https://www.unirank.org/dk/uni/kobenhavns-universitet/,very large-sized,not reported,1479,0-999 US$ (0-910 Euro),999 US$
+35,Universität Zürich,Zürich,Switzerland,145,3,https://www.unirank.org/ch/uni/universitat-zurich/,large-sized,not reported,1833,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+36,Université de Strasbourg,Strasbourg,France,148,1,https://www.unirank.org/fr/uni/universite-de-strasbourg/,very large-sized,not reported,1621,0-999 US$ (0-910 Euro),999 US$
+37,Universiteit Gent,Ghent,Belgium,151,2,https://www.unirank.org/be/uni/universiteit-gent/,very large-sized,not available,1817,0-999 US$ (0-910 Euro),999 US$
+38,Humboldt-Universität zu Berlin,Berlin,Germany,153,8,https://www.unirank.org/de/uni/humboldt-universitat-zu-berlin/,very large-sized,not reported,1809,0-999 US$ (0-910 Euro),999 US$
+39,Rheinische Friedrich-Wilhelms-Universität Bonn,Bonn,Germany,155,9,https://www.unirank.org/de/uni/rheinische-friedrich-wilhelms-universitat-bonn/,large-sized,not reported,1818,0-999 US$ (0-910 Euro),999 US$
+40,Ruhr-Universität Bochum,Bochum,Germany,159,10,https://www.unirank.org/de/uni/ruhr-universitat-bochum/,very large-sized,not reported,1962,0-999 US$ (0-910 Euro),999 US$
+41,Norges teknisk-naturvitenskaplige universitet,Trondheim,Norway,160,2,https://www.unirank.org/no/uni/norges-teknisk-naturvitenskaplige-universitet/,very large-sized,not reported,1996,0-999 US$ (0-910 Euro),999 US$
+42,Lunds Universitet,Lund,Sweden,163,1,https://www.unirank.org/se/uni/lunds-universitet/,large-sized,not reported,1666,0-999 US$ (0-910 Euro),999 US$
+43,Universidad Complutense de Madrid,Madrid,Spain,165,2,https://www.unirank.org/es/uni/universidad-complutense-de-madrid/,very large-sized,moderately selective,1293,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+44,Université de Genève,Geneva,Switzerland,166,4,https://www.unirank.org/ch/uni/universite-de-geneve/,large-sized,not reported,1835,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+45,Karlsruher Institut für Technologie,Karlsruhe,Germany,168,11,https://www.unirank.org/de/uni/karlsruher-institut-fur-technologie/,large-sized,very selective,2009,0-999 US$ (0-910 Euro),999 US$
+46,Universität zu Köln,Cologne,Germany,170,12,https://www.unirank.org/de/uni/universitat-zu-koln/,very large-sized,not reported,1388,0-999 US$ (0-910 Euro),999 US$
+47,University of Nottingham,Nottingham,United Kingdom,172,14,https://www.unirank.org/gb/uni/university-of-nottingham/,very large-sized,not reported,1948,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+48,Università degli Studi di Padova,Padua,Italy,173,2,https://www.unirank.org/it/uni/universita-degli-studi-di-padova/,very large-sized,not reported,1222,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+49,The University of York,York,United Kingdom,175,15,https://www.unirank.org/gb/uni/the-university-of-york/,large-sized,not reported,1963,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+50,Uppsala Universitet,Uppsala,Sweden,176,2,https://www.unirank.org/se/uni/uppsala-universitet/,large-sized,moderately selective,1477,0-999 US$ (0-910 Euro),999 US$
+51,Eberhard Karls Universität Tübingen,Tübingen,Germany,177,13,https://www.unirank.org/de/uni/eberhard-karls-universitat-tubingen/,large-sized,not available,1477,0-999 US$ (0-910 Euro),999 US$
+52,Goethe-Universität Frankfurt am Main,Frankfurt am Main,Germany,178,14,https://www.unirank.org/de/uni/goethe-universitat-frankfurt-am-main/,very large-sized,not available,1914,0-999 US$ (0-910 Euro),999 US$
+53,Newcastle University,Newcastle upon Tyne,United Kingdom,179,16,https://www.unirank.org/gb/uni/newcastle-university/,large-sized,not reported,1963,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+54,Aarhus Universitet,Aarhus,Denmark,181,2,https://www.unirank.org/dk/uni/aarhus-universitet/,large-sized,not reported,1928,0-999 US$ (0-910 Euro),999 US$
+55,Kungliga Tekniska högskolan,Stockholm,Sweden,183,3,https://www.unirank.org/se/uni/kungliga-tekniska-hogskolan/,large-sized,averagely selective,1827,0-999 US$ (0-910 Euro),999 US$
+56,University of Liverpool,Liverpool,United Kingdom,186,17,https://www.unirank.org/gb/uni/university-of-liverpool/,large-sized,not reported,1882,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+57,Technische Universität Berlin,Berlin,Germany,188,15,https://www.unirank.org/de/uni/technische-universitat-berlin/,large-sized,not reported,1946,0-999 US$ (0-910 Euro),999 US$
+58,University of St Andrews,St Andrews,United Kingdom,191,18,https://www.unirank.org/gb/uni/university-of-st-andrews/,medium-sized,not reported,1413,0-999 US$ (0-910 Euro),999 US$
+59,Universidad Autónoma de Barcelona,Cerdanyola del Vallès,Spain,193,3,https://www.unirank.org/es/uni/universidad-autonoma-de-barcelona/,very large-sized,not reported,1968,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+60,University of Exeter,Exeter,United Kingdom,195,19,https://www.unirank.org/gb/uni/university-of-exeter/,large-sized,not reported,1955,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+61,Technische Universität Dresden,Dresden,Germany,196,16,https://www.unirank.org/de/uni/technische-universitat-dresden/,very large-sized,not reported,1828,0-999 US$ (0-910 Euro),999 US$
+62,Tampereen yliopisto,Tampere,Finland,197,2,https://www.unirank.org/fi/uni/tampereen-yliopisto/,large-sized,extremely selective,1925,0-999 US$ (0-910 Euro),999 US$
+63,Univerzita Karlova,Prague,Czech Republic,198,1,https://www.unirank.org/cz/uni/univerzita-karlova/,very large-sized,very selective,1348,0-999 US$ (0-910 Euro),999 US$
+64,Durham University,Durham,United Kingdom,203,20,https://www.unirank.org/gb/uni/durham-university/,large-sized,not reported,1832,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+65,Universidad de Granada,Granada,Spain,204,4,https://www.unirank.org/es/uni/universidad-de-granada/,very large-sized,not reported,1531,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+66,Université de Liège,Liège,Belgium,206,3,https://www.unirank.org/be/uni/universite-de-liege/,large-sized,not available,1817,0-999 US$ (0-910 Euro),999 US$
+67,Lancaster University,Lancaster,United Kingdom,207,21,https://www.unirank.org/gb/uni/lancaster-university/,large-sized,very selective,1964,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+68,Technische Universität Wien,Vienna,Austria,208,2,https://www.unirank.org/at/uni/technische-universitat-wien/,large-sized,not reported,1872,0-999 US$ (0-910 Euro),999 US$
+69,Politecnico di Milano,Milan,Italy,209,3,https://www.unirank.org/it/uni/politecnico-di-milano/,very large-sized,not reported,1863,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+70,Westfälische Wilhelms-Universität Münster,Münster,Germany,211,17,https://www.unirank.org/de/uni/westfalische-wilhelms-universitat-munster/,large-sized,extremely selective,1780,0-999 US$ (0-910 Euro),999 US$
+71,Universidad Politécnica de Madrid,Madrid,Spain,212,5,https://www.unirank.org/es/uni/universidad-politecnica-de-madrid/,very large-sized,not reported,1971,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+72,Aalto-yliopisto,Espoo,Finland,213,3,https://www.unirank.org/fi/uni/aalto-yliopisto/,large-sized,extremely selective,2010,0-999 US$ (0-910 Euro),999 US$
+73,National Research University Higher School of Economics,Moscow,Russia,215,1,https://www.unirank.org/ru/uni/national-research-university-higher-school-of-economics/,very large-sized,not reported,1992,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+74,Université Catholique de Louvain,Louvain-la-Neuve,Belgium,217,4,https://www.unirank.org/be/uni/universite-catholique-de-louvain/,large-sized,not reported,1425,0-999 US$ (0-910 Euro),999 US$
+75,Masarykova univerzita,Brno,Czech Republic,218,2,https://www.unirank.org/cz/uni/masarykova-univerzita/,very large-sized,very selective,1919,Not reported,Not reported
+76,Vrije Universiteit Amsterdam,Amsterdam,Netherlands,219,6,https://www.unirank.org/nl/uni/vrije-universiteit-amsterdam/,large-sized,not reported,1880,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+77,Universidade de Lisboa,Lisbon,Portugal,220,1,https://www.unirank.org/pt/uni/universidade-de-lisboa/,very large-sized,not reported,1911,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+78,Linköpings Universitet,Linköping,Sweden,222,4,https://www.unirank.org/se/uni/linkopings-universitet/,large-sized,averagely selective,1975,0-999 US$ (0-910 Euro),999 US$
+79,"Trinity College Dublin, University of Dublin",Dublin,Ireland,225,1,https://www.unirank.org/ie/uni/trinity-college-dublin-university-of-dublin/,large-sized,not reported,1592,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+80,Universität Bern,Bern,Switzerland,226,5,https://www.unirank.org/ch/uni/universitat-bern/,large-sized,not reported,1834,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+81,Sapienza Università di Roma,Rome,Italy,227,4,https://www.unirank.org/it/uni/sapienza-universita-di-roma/,very large-sized,not reported,1303,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+82,Albert-Ludwigs-Universität Freiburg,Freiburg im Breisgau,Germany,228,18,https://www.unirank.org/de/uni/albert-ludwigs-universitat-freiburg/,large-sized,not available,1457,0-999 US$ (0-910 Euro),999 US$
+83,Moscow State University,Moscow,Russia,229,2,https://www.unirank.org/ru/uni/moscow-state-university/,large-sized,not reported,1755,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+84,Universidad de Valencia,Valencia,Spain,230,6,https://www.unirank.org/es/uni/universidad-de-valencia/,very large-sized,averagely selective,1499,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+85,Università degli Studi di Torino,Turin,Italy,233,5,https://www.unirank.org/it/uni/universita-degli-studi-di-torino/,very large-sized,not available,1404,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+86,Universidad Politécnica de Cataluña,Barcelona,Spain,235,7,https://www.unirank.org/es/uni/universidad-politecnica-de-cataluna/,large-sized,not reported,1971,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+87,Universität Stuttgart,Stuttgart,Germany,236,19,https://www.unirank.org/de/uni/universitat-stuttgart/,large-sized,not reported,1829,0-999 US$ (0-910 Euro),999 US$
+88,Universität Leipzig,Leipzig,Germany,238,20,https://www.unirank.org/de/uni/universitat-leipzig/,large-sized,not reported,1409,0-999 US$ (0-910 Euro),999 US$
+89,University of Bristol,Bristol,United Kingdom,240,22,https://www.unirank.org/gb/uni/university-of-bristol/,large-sized,not reported,1909,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999 US$"
+90,Universiteit Twente,Enschede,Netherlands,243,7,https://www.unirank.org/nl/uni/universiteit-twente/,medium-sized,not reported,1961,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+91,Universitetet i Bergen,Bergen,Norway,244,3,https://www.unirank.org/no/uni/universitetet-i-bergen/,large-sized,not reported,1946,0-999 US$ (0-910 Euro),999 US$
+92,Georg-August-Universität Göttingen,Göttingen,Germany,245,21,https://www.unirank.org/de/uni/georg-august-universitat-gottingen/,large-sized,not reported,1734,0-999 US$ (0-910 Euro),999 US$
+93,Johannes Gutenberg-Universität Mainz,Mainz,Germany,246,22,https://www.unirank.org/de/uni/johannes-gutenberg-universitat-mainz/,very large-sized,not available,1946,0-999 US$ (0-910 Euro),999 US$
+94,Universidad Politécnica de València,Valencia,Spain,249,8,https://www.unirank.org/es/uni/universidad-politecnica-de-valencia/,very large-sized,least selective,1968,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+95,Université Paris Cité,Paris,France,250,2,https://www.unirank.org/fr/uni/universite-paris-cite/,very large-sized,not reported,2019,0-999 US$ (0-910 Euro),999 US$
+96,Université de Lille,Lille,France,252,3,https://www.unirank.org/fr/uni/universite-de-lille/,very large-sized,not reported,2018,0-999 US$ (0-910 Euro),999 US$
+97,Wageningen Universiteit,Wageningen,Netherlands,253,8,https://www.unirank.org/nl/uni/wageningen-universiteit/,large-sized,not reported,1918,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+98,Queen Mary University of London,London,United Kingdom,254,23,https://www.unirank.org/gb/uni/queen-mary-university-of-london/,large-sized,not reported,1989,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+99,Technische Universiteit Eindhoven,Eindhoven,Netherlands,256,9,https://www.unirank.org/nl/uni/technische-universiteit-eindhoven/,large-sized,not reported,1956,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+100,Università degli Studi di Milano,Milan,Italy,261,6,https://www.unirank.org/it/uni/universita-degli-studi-di-milano/,very large-sized,not available,1924,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+101,Göteborgs universitet,Gothenburg,Sweden,264,5,https://www.unirank.org/se/uni/goteborgs-universitet/,very large-sized,not reported,1891,0-999 US$ (0-910 Euro),999 US$
+102,"City St George's, University of London",London,United Kingdom,265,24,https://www.unirank.org/gb/uni/city-st-george-s-university-of-london/,large-sized,not reported,1733,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+103,Universidad del País Vasco,Leioa,Spain,269,9,https://www.unirank.org/es/uni/universidad-del-pais-vasco/,very large-sized,not reported,1968,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+104,University of Surrey,Guildford,United Kingdom,274,25,https://www.unirank.org/gb/uni/university-of-surrey/,large-sized,not reported,1966,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+105,Leibniz Universität Hannover,Hannover,Germany,276,23,https://www.unirank.org/de/uni/leibniz-universitat-hannover/,large-sized,not reported,1831,0-999 US$ (0-910 Euro),999 US$
+106,Sorbonne Université,Paris,France,277,4,https://www.unirank.org/fr/uni/sorbonne-universite/,very large-sized,not reported,2018,0-999 US$ (0-910 Euro),999 US$
+107,University of Bath,Bath,United Kingdom,278,26,https://www.unirank.org/gb/uni/university-of-bath/,large-sized,extremely selective,1966,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+108,Stockholms universitet,Stockholm,Sweden,283,6,https://www.unirank.org/se/uni/stockholms-universitet/,very large-sized,not reported,1878,0-999 US$ (0-910 Euro),999 US$
+109,Universität Innsbruck,Innsbruck,Austria,284,3,https://www.unirank.org/at/uni/universitat-innsbruck/,large-sized,not available,1669,0-999 US$ (0-910 Euro),999 US$
+110,University of Sheffield,Sheffield,United Kingdom,286,27,https://www.unirank.org/gb/uni/university-of-sheffield/,large-sized,not reported,1905,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+111,University of Reading,Reading,United Kingdom,287,28,https://www.unirank.org/gb/uni/university-of-reading/,large-sized,not reported,1892,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+112,Universidad de Sevilla,Seville,Spain,289,10,https://www.unirank.org/es/uni/universidad-de-sevilla/,very large-sized,not reported,1505,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+113,Technische Universität Darmstadt,Darmstadt,Germany,291,24,https://www.unirank.org/de/uni/technische-universitat-darmstadt/,large-sized,not available,1877,0-999 US$ (0-910 Euro),999 US$
+114,Uniwersytet Warszawski,Warsaw,Poland,292,1,https://www.unirank.org/pl/uni/uniwersytet-warszawski/,very large-sized,very selective,1816,0-999 US$ (0-910 Euro),999 US$
+115,Danmarks Tekniske Universitet,Kongens Lyngby,Denmark,295,3,https://www.unirank.org/dk/uni/danmarks-tekniske-universitet/,medium-sized,not reported,1829,0-999 US$ (0-910 Euro),999 US$
+116,University of Leicester,Leicester,United Kingdom,296,29,https://www.unirank.org/gb/uni/university-of-leicester/,large-sized,not reported,1957,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+117,Universidade do Porto,Porto,Portugal,297,2,https://www.unirank.org/pt/uni/universidade-do-porto/,very large-sized,not reported,1911,0-999 US$ (0-910 Euro),999 US$
+118,Univerzitet u Beogradu,Belgrade,Serbia,299,1,https://www.unirank.org/rs/uni/univerzitet-u-beogradu/,very large-sized,not reported,1905,Not reported,Not reported
+119,Radboud Universiteit,Nijmegen,Netherlands,304,10,https://www.unirank.org/nl/uni/radboud-universiteit/,large-sized,not reported,1923,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+120,Heinrich-Heine-Universität Düsseldorf,Düsseldorf,Germany,306,25,https://www.unirank.org/de/uni/heinrich-heine-universitat-dusseldorf/,large-sized,not reported,1965,0-999 US$ (0-910 Euro),999 US$
+121,Universität Bremen,Bremen,Germany,308,26,https://www.unirank.org/de/uni/universitat-bremen/,large-sized,not reported,1971,0-999 US$ (0-910 Euro),999 US$
+122,Julius-Maximilians-Universität Würzburg,Würzburg,Germany,317,27,https://www.unirank.org/de/uni/julius-maximilians-universitat-wurzburg/,large-sized,not reported,1402,0-999 US$ (0-910 Euro),999 US$
+123,University of Sussex,Brighton,United Kingdom,318,30,https://www.unirank.org/gb/uni/university-of-sussex/,large-sized,not reported,1961,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+124,University College Dublin,Dublin,Ireland,319,2,https://www.unirank.org/ie/uni/university-college-dublin/,large-sized,very selective,1854,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+125,Università degli Studi di Pisa,Pisa,Italy,320,7,https://www.unirank.org/it/uni/universita-degli-studi-di-pisa/,very large-sized,very selective,1343,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+126,Université Libre de Bruxelles,Brussels,Belgium,321,5,https://www.unirank.org/be/uni/universite-libre-de-bruxelles/,large-sized,not available,1834,0-999 US$ (0-910 Euro),999 US$
+127,Politecnico di Torino,Turin,Italy,329,8,https://www.unirank.org/it/uni/politecnico-di-torino/,large-sized,not reported,1859,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+128,Chalmers tekniska högskola,Gothenburg,Sweden,331,7,https://www.unirank.org/se/uni/chalmers-tekniska-hogskola/,medium-sized,moderately selective,1829,0-999 US$ (0-910 Euro),999 US$
+129,Eötvös Loránd Tudományegyetem,Budapest,Hungary,333,1,https://www.unirank.org/hu/uni/eotvos-lorand-tudomanyegyetem/,very large-sized,very selective,1635,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+130,Universität Basel,Basel,Switzerland,336,6,https://www.unirank.org/ch/uni/universitat-basel/,medium-sized,not reported,1460,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+131,Umeå universitet,Umeå,Sweden,337,8,https://www.unirank.org/se/uni/umea-universitet/,large-sized,not reported,1965,0-999 US$ (0-910 Euro),999 US$
+132,Université de Lorraine,Nancy,France,338,5,https://www.unirank.org/fr/uni/universite-de-lorraine/,very large-sized,extremely selective,2012,0-999 US$ (0-910 Euro),999 US$
+133,Queen's University Belfast,Belfast,United Kingdom,339,31,https://www.unirank.org/gb/uni/queen-s-university-belfast/,large-sized,very selective,1849,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+134,Universität Bielefeld,Bielefeld,Germany,343,28,https://www.unirank.org/de/uni/universitat-bielefeld/,large-sized,not available,1969,0-999 US$ (0-910 Euro),999 US$
+135,Univerza v Ljubljani,Ljubljana,Slovenia,344,1,https://www.unirank.org/si/uni/univerza-v-ljubljani/,very large-sized,not reported,1919,Not reported,Not reported
+136,Université Grenoble Alpes,Saint-Martin-d'Hères,France,345,6,https://www.unirank.org/fr/uni/universite-grenoble-alpes/,very large-sized,not reported,1339,0-999 US$ (0-910 Euro),999 US$
+137,Université de Bordeaux,Bordeaux,France,346,7,https://www.unirank.org/fr/uni/universite-de-bordeaux/,very large-sized,not reported,1441,0-999 US$ (0-910 Euro),999 US$
+138,University of East Anglia,Norwich,United Kingdom,347,32,https://www.unirank.org/gb/uni/university-of-east-anglia/,large-sized,not reported,1963,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+139,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,Kaiserslautern,Germany,349,29,https://www.unirank.org/de/uni/rheinland-pfalzische-technische-universitat-kaiserslautern-landau/,large-sized,not available,1970,0-999 US$ (0-910 Euro),999 US$
+140,Christian-Albrechts-Universität zu Kiel,Kiel,Germany,353,30,https://www.unirank.org/de/uni/christian-albrechts-universitat-zu-kiel/,large-sized,not available,1665,0-999 US$ (0-910 Euro),999 US$
+141,Universidad Pompeu Fabra,Barcelona,Spain,355,11,https://www.unirank.org/es/uni/universidad-pompeu-fabra/,large-sized,not reported,1990,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+142,University of Kent,Canterbury,United Kingdom,358,33,https://www.unirank.org/gb/uni/university-of-kent/,large-sized,not reported,1965,"12,500-14,999 US$ (11,390-13,670 Euro)","14,999 US$"
+143,Cardiff University,Cardiff,United Kingdom,364,34,https://www.unirank.org/gb/uni/cardiff-university/,large-sized,not reported,1997,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+144,Friedrich-Schiller-Universität Jena,Jena,Germany,366,31,https://www.unirank.org/de/uni/friedrich-schiller-universitat-jena/,large-sized,moderately selective,1558,0-999 US$ (0-910 Euro),999 US$
+145,University of Strathclyde,Glasgow,United Kingdom,369,35,https://www.unirank.org/gb/uni/university-of-strathclyde/,large-sized,not reported,1964,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+146,Vrije Universiteit Brussel,Brussels,Belgium,372,6,https://www.unirank.org/be/uni/vrije-universiteit-brussel/,large-sized,very selective,1970,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+147,Universidade de Coimbra,Coimbra,Portugal,374,3,https://www.unirank.org/pt/uni/universidade-de-coimbra/,large-sized,averagely selective,1290,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+148,Uniwersytet Jagielloński,Krakow,Poland,379,2,https://www.unirank.org/pl/uni/uniwersytet-jagiellonski/,very large-sized,very selective,1364,0-999 US$ (0-910 Euro),999 US$
+149,Aristotle University of Thessaloniki,Thessaloniki,Greece,381,1,https://www.unirank.org/gr/uni/aristotle-university-of-thessaloniki/,very large-sized,not reported,1925,0-999 US$ (0-910 Euro),999 US$
+150,Universidad Autónoma de Madrid,Madrid,Spain,382,12,https://www.unirank.org/es/uni/universidad-autonoma-de-madrid/,large-sized,not reported,1968,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+151,University of Aberdeen,Aberdeen,United Kingdom,383,36,https://www.unirank.org/gb/uni/university-of-aberdeen/,large-sized,not reported,1495,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+152,Universiteit Antwerpen,Antwerp,Belgium,385,7,https://www.unirank.org/be/uni/universiteit-antwerpen/,large-sized,not available,2003,0-999 US$ (0-910 Euro),999 US$
+153,Université Claude Bernard Lyon 1,Villeurbanne,France,388,8,https://www.unirank.org/fr/uni/universite-claude-bernard-lyon-1/,large-sized,not reported,1971,0-999 US$ (0-910 Euro),999 US$
+154,Università degli Studi di Firenze,Florence,Italy,389,9,https://www.unirank.org/it/uni/universita-degli-studi-di-firenze/,very large-sized,not reported,1321,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+155,National and Kapodistrian University of Athens,Athens,Greece,394,2,https://www.unirank.org/gr/uni/national-and-kapodistrian-university-of-athens/,very large-sized,not reported,1837,0-999 US$ (0-910 Euro),999 US$
+156,Loughborough University,Loughborough,United Kingdom,395,37,https://www.unirank.org/gb/uni/loughborough-university/,large-sized,not reported,1966,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+157,Universidad de Murcia,Murcia,Spain,397,13,https://www.unirank.org/es/uni/universidad-de-murcia/,large-sized,moderately selective,1272,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+158,Universidad de Zaragoza,Zaragoza,Spain,401,14,https://www.unirank.org/es/uni/universidad-de-zaragoza/,large-sized,not reported,1542,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+159,Université de Lausanne,Lausanne,Switzerland,402,7,https://www.unirank.org/ch/uni/universite-de-lausanne/,large-sized,not reported,1537,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+160,Universität Potsdam,Potsdam,Germany,403,32,https://www.unirank.org/de/uni/universitat-potsdam/,large-sized,not available,1991,0-999 US$ (0-910 Euro),999 US$
+161,Università degli Studi di Napoli Federico II,Naples,Italy,405,10,https://www.unirank.org/it/uni/universita-degli-studi-di-napoli-federico-ii/,very large-sized,not reported,1224,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+162,Universität Ulm,Ulm,Germany,407,33,https://www.unirank.org/de/uni/universitat-ulm/,large-sized,not reported,1967,0-999 US$ (0-910 Euro),999 US$
+163,Universität Regensburg,Regensburg,Germany,408,34,https://www.unirank.org/de/uni/universitat-regensburg/,large-sized,not reported,1962,0-999 US$ (0-910 Euro),999 US$
+164,Karolinska Institutet,Stockholm,Sweden,409,9,https://www.unirank.org/se/uni/karolinska-institutet/,medium-sized,not reported,1861,0-999 US$ (0-910 Euro),999 US$
+165,Martin-Luther-Universität Halle-Wittenberg,Halle,Germany,411,35,https://www.unirank.org/de/uni/martin-luther-universitat-halle-wittenberg/,large-sized,averagely selective,1817,0-999 US$ (0-910 Euro),999 US$
+166,Otto-von-Guericke-Universität Magdeburg,Magdeburg,Germany,412,36,https://www.unirank.org/de/uni/otto-von-guericke-universitat-magdeburg/,large-sized,not reported,1993,0-999 US$ (0-910 Euro),999 US$
+167,Universidad de Alicante,San Vicente del Raspeig,Spain,415,15,https://www.unirank.org/es/uni/universidad-de-alicante/,large-sized,moderately selective,1979,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+168,Erasmus Universiteit Rotterdam,Rotterdam,Netherlands,417,11,https://www.unirank.org/nl/uni/erasmus-universiteit-rotterdam/,very large-sized,not reported,1913,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+169,Universität Duisburg-Essen,Essen,Germany,418,37,https://www.unirank.org/de/uni/universitat-duisburg-essen/,very large-sized,not available,2003,0-999 US$ (0-910 Euro),999 US$
+170,Philipps-Universität Marburg,Marburg,Germany,419,38,https://www.unirank.org/de/uni/philipps-universitat-marburg/,large-sized,not reported,1527,0-999 US$ (0-910 Euro),999 US$
+171,Universität Paderborn,Paderborn,Germany,421,39,https://www.unirank.org/de/uni/universitat-paderborn/,large-sized,not reported,1972,0-999 US$ (0-910 Euro),999 US$
+172,Carl von Ossietzky Universität Oldenburg,Oldenburg,Germany,425,40,https://www.unirank.org/de/uni/carl-von-ossietzky-universitat-oldenburg/,large-sized,not reported,1973,0-999 US$ (0-910 Euro),999 US$
+173,University College Cork,Cork,Ireland,426,3,https://www.unirank.org/ie/uni/university-college-cork/,large-sized,not reported,1845,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+174,Université Côte d'Azur,Nice,France,429,9,https://www.unirank.org/fr/uni/universite-cote-d-azur/,very large-sized,not reported,1965,0-999 US$ (0-910 Euro),999 US$
+175,École Normale Supérieure,Paris,France,430,10,https://www.unirank.org/fr/uni/ecole-normale-superieure/,small-sized,not reported,1794,0-999 US$ (0-910 Euro),999 US$
+176,Charité - Universitätsmedizin Berlin,Berlin,Germany,431,41,https://www.unirank.org/de/uni/charite---universitatsmedizin-berlin/,medium-sized,not available,1710,Not reported,Not reported
+177,University of Essex,Colchester,United Kingdom,433,38,https://www.unirank.org/gb/uni/university-of-essex/,large-sized,not reported,1964,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+178,Universidad de Málaga,Málaga,Spain,435,16,https://www.unirank.org/es/uni/universidad-de-malaga/,very large-sized,not reported,1972,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+179,Tartu Ülikool,Tartu,Estonia,436,1,https://www.unirank.org/ee/uni/tartu-ulikool/,medium-sized,not reported,1632,"2,500-4,999 US$ (2,280-4,555 Euro)","4,999 US$"
+180,Technische Universität Chemnitz,Chemnitz,Germany,438,42,https://www.unirank.org/de/uni/technische-universitat-chemnitz/,large-sized,not available,1836,0-999 US$ (0-910 Euro),999 US$
+181,Universidad Carlos III de Madrid,Getafe,Spain,439,17,https://www.unirank.org/es/uni/universidad-carlos-iii-de-madrid/,large-sized,not reported,1989,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+182,St. Petersburg State University,Saint Petersburg,Russia,447,3,https://www.unirank.org/ru/uni/st-petersburg-state-university/,large-sized,not reported,1724,Not reported,Not reported
+183,Université Paris-Saclay,Saint-Aubin,France,449,11,https://www.unirank.org/fr/uni/universite-paris-saclay/,very large-sized,not reported,2014,0-999 US$ (0-910 Euro),999 US$
+184,École Normale Supérieure de Lyon,Lyon,France,450,12,https://www.unirank.org/fr/uni/ecole-normale-superieure-de-lyon/,small-sized,not reported,1987,0-999 US$ (0-910 Euro),999 US$
+185,Justus-Liebig-Universität Giessen,Giessen,Germany,453,43,https://www.unirank.org/de/uni/justus-liebig-universitat-giessen/,large-sized,not reported,1607,0-999 US$ (0-910 Euro),999 US$
+186,Technische Universität Graz,Graz,Austria,454,4,https://www.unirank.org/at/uni/technische-universitat-graz/,medium-sized,not available,1874,0-999 US$ (0-910 Euro),999 US$
+187,Aalborg Universitet,Aalborg,Denmark,456,4,https://www.unirank.org/dk/uni/aalborg-universitet/,large-sized,not reported,1974,0-999 US$ (0-910 Euro),999 US$
+188,Budapesti Műszaki és Gazdaságtudományi Egyetem,Budapest,Hungary,457,2,https://www.unirank.org/hu/uni/budapesti-muszaki-es-gazdasagtudomanyi-egyetem/,large-sized,not reported,1782,0-999 US$ (0-910 Euro),999 US$
+189,Université de Montpellier,Montpellier,France,458,13,https://www.unirank.org/fr/uni/universite-de-montpellier/,very large-sized,not reported,1289,0-999 US$ (0-910 Euro),999 US$
+190,Universidad de Salamanca,Salamanca,Spain,460,18,https://www.unirank.org/es/uni/universidad-de-salamanca/,large-sized,not reported,1218,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+191,Jyväskylän yliopisto,Jyväskylä,Finland,461,4,https://www.unirank.org/fi/uni/jyvaskylan-yliopisto/,large-sized,not reported,1934,0-999 US$ (0-910 Euro),999 US$
+192,Universität Graz,Graz,Austria,466,5,https://www.unirank.org/at/uni/universitat-graz/,large-sized,least selective,1585,0-999 US$ (0-910 Euro),999 US$
+193,Heriot-Watt University,Edinburgh,United Kingdom,470,39,https://www.unirank.org/gb/uni/heriot-watt-university/,medium-sized,not reported,1966,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+194,České vysoké učení technické v Praze,Prague,Czech Republic,474,3,https://www.unirank.org/cz/uni/ceske-vysoke-uceni-technicke-v-praze/,large-sized,moderately selective,1707,Not reported,Not reported
+195,Turun yliopisto,Turku,Finland,475,5,https://www.unirank.org/fi/uni/turun-yliopisto/,large-sized,extremely selective,1920,0-999 US$ (0-910 Euro),999 US$
+196,Universität Konstanz,Konstanz,Germany,476,44,https://www.unirank.org/de/uni/universitat-konstanz/,small-sized,not reported,1966,0-999 US$ (0-910 Euro),999 US$
+197,Institut d'Études Politiques de Paris,Paris,France,477,14,https://www.unirank.org/fr/uni/institut-d-etudes-politiques-de-paris/,medium-sized,extremely selective,1872,"10,000-12,499 US$ (9,110-11,390 Euro)","12,499 US$"
+198,Universität des Saarlandes,Saarbrücken,Germany,482,45,https://www.unirank.org/de/uni/universitat-des-saarlandes/,large-sized,very selective,1948,0-999 US$ (0-910 Euro),999 US$
+199,Università degli Studi di Trento,Trento,Italy,484,11,https://www.unirank.org/it/uni/universita-degli-studi-di-trento/,large-sized,averagely selective,1962,"1,000-2,499 US$ (910-2,280 Euro)","2,499 US$"
+200,Syddansk Universitet,Odense,Denmark,486,5,https://www.unirank.org/dk/uni/syddansk-universitet/,large-sized,very selective,1966,0-999 US$ (0-910 Euro),999 US$
