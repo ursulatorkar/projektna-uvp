@@ -93,7 +93,7 @@ def podatki_univerze(vsebina):
     velikost = re.search(r'university-size-.*?<strong>(.*?)</strong>', vsebina, re.DOTALL)
     selektivnost = re.search(r'university-acceptance-rate-.*?<strong>(.*?)</strong>', vsebina, re.DOTALL)
     leto_ustanovitve = re.search(r'itemprop="foundingDate">\s*<strong>(.*?)</strong>', vsebina, re.DOTALL)
-    cena_solanja = re.search(r'Local.*?students.*?<strong>(.*?)</strong>', vsebina, re.DOTALL)
+    cena_solanja = re.search(r'Tuition Fees Range Matrix.*?Local.*?students.*?<strong>(.*?)</strong>', vsebina, re.DOTALL)
     izluscena_cena = cena_solanja.group(1) if cena_solanja else None
 
     if cena_solanja:
