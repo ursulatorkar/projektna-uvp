@@ -100,7 +100,7 @@ def podatki_univerze(vsebina):
         zgornja_meja_re = re.search(r'-([\d,]+)\s*US\$', izluscena_cena)
         zgornja_meja_cene = zgornja_meja_re.group(1) if zgornja_meja_re else None
     else:
-        zgornja_meja_cene = None
+        zgornja_meja_cene = 'Not reported'
 
     return {
         'velikost' : velikost.group(1) if velikost else None,
