@@ -65,13 +65,13 @@ def get_university_from_block(uni_block):
     uni_url = re.search(r'itemprop="url" href="(.*?)"', uni_block)
 
     return {
-        'eu_rank' : eu_rank.group(1) if eu_rank else None,
-        'ime_uni' : ime_uni.group(1) if ime_uni else None,
-        'mesto' : mesto.group(1) if mesto else None,
-        'drzava' : drzava.group(1) if drzava else None,
-        'svetovni_rank' : svetovni_rank.group(1) if svetovni_rank else None,
-        'drzavni_rank' : drzavni_rank.group(1) if drzavni_rank else None,
-        'uni_url' : 'https://www.unirank.org' + uni_url.group(1) if uni_url else None
+        'Evropski rank' : eu_rank.group(1) if eu_rank else None,
+        'Univerza' : ime_uni.group(1) if ime_uni else None,
+        'Mesto' : mesto.group(1) if mesto else None,
+        'Država' : drzava.group(1) if drzava else None,
+        'Svetovni rank' : svetovni_rank.group(1) if svetovni_rank else None,
+        'Državni rank' : drzavni_rank.group(1) if drzavni_rank else None,
+        'URL podstrani' : 'https://www.unirank.org' + uni_url.group(1) if uni_url else None
     }
 
 def universities_to_dicts():
@@ -83,9 +83,9 @@ def universities_to_dicts():
 def download_uni_pages(podatki):
     #Ta funkcija prenese vsebino spletne strani posamezne univerze in jo shrani v datoteko z imenom univerze.
     for univerza in podatki:
-        if univerza['uni_url'] is not None:
-            ime_datoteke = univerza['ime_uni'].replace(' ','_') + '.html'
-            download_url_to_file(univerza['uni_url'], 'universities', ime_datoteke)
+        if univerza['URL podstrani'] is not None:
+            ime_datoteke = univerza['Univerza'].replace(' ','_') + '.html'
+            download_url_to_file(univerza['URL podstrani'], 'universities', ime_datoteke)
             
 
 def podatki_univerze(vsebina):
@@ -108,19 +108,19 @@ def podatki_univerze(vsebina):
         
 
     return {
-        'velikost' : velikost.group(1) if velikost else None,
-        'selektivnost' : selektivnost.group(1) if selektivnost else None,
-        'leto_ustanovitve' : leto_ustanovitve.group(1) if leto_ustanovitve else None,
-        'cena_solanja' : izluscena_cena,
-        'zgornja_meja_cene' : zgornja_meja_cene
+        'Velikost' : velikost.group(1) if velikost else None,
+        'Selektivnost' : selektivnost.group(1) if selektivnost else None,
+        'Leto ustanovitve' : leto_ustanovitve.group(1) if leto_ustanovitve else None,
+        'Cena šolanja' : izluscena_cena,
+        'Zgornja meja cene' : zgornja_meja_cene
     }
 
 def dodajanje_podatkov_univerze(univerza):
     #Funkcija bo v slovar dodala dodatne podatke o univerzi, pridobljene iz spletne strani posamezne univerze.
-    if univerza['uni_url'] is None:
+    if univerza['URL podstrani'] is None:
         return univerza
     
-    ime_datoteke = univerza['ime_uni'].replace(' ','_') + '.html'
+    ime_datoteke = univerza['Univerza'].replace(' ','_') + '.html'
     path = os.path.join('universities', ime_datoteke)
 
     if not os.path.exists(path):
@@ -153,6 +153,6 @@ if __name__ == "__main__":
     univerze = universities_to_dicts()
     download_uni_pages(univerze)
     univerze = dodajanje_v_cel_seznam(univerze)
-    fieldnames = ['eu_rank', 'ime_uni', 'mesto', 'drzava', 'svetovni_rank', 'drzavni_rank', 'uni_url', 'velikost', 'selektivnost', 'leto_ustanovitve', 'cena_solanja', 'zgornja_meja_cene']
+    fieldnames = ['Evropski rank', 'Univerza', 'Mesto', 'Država', 'Svetovni rank', 'Državni rank', 'URL podstrani', 'Velikost', 'Selektivnost', 'Leto ustanovitve', 'Cena šolanja', 'Zgornja meja cene']
     write_csv(fieldnames, univerze, 'universities', 'universities.csv')
     print("Podatki o top 200 evropskih univerzah so bili uspešno preneseni in shranjeni v datoteko universities.csv.")
