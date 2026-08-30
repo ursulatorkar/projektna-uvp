@@ -39,8 +39,8 @@ def download_url_to_file(url, directory, file):
         save_string_to_file(text, directory, file)
 
 def download_top_200_EU_universities():
-    #Funkcija iz spletne strani prenese podatke o 200 najboljših evropskih univerzah
-    # in jih shrani v datoteko universities.html
+    #Funkcija bo iz spletne strani prenesla podatke o 200 najboljših evropskih univerzah
+    # in jih shranila v datoteko universities.html
     url = 'https://www.unirank.org/europe/top-200/'
     download_url_to_file(url, 'universities', 'universities.html')
 
@@ -55,7 +55,7 @@ def universities_to_blocks():
     return univerza_re.findall(vsebina)
 
 def get_university_from_block(uni_block):
-    #Funkcija iz bloka HTML kode izlušči potrebne podatke o univerzi in jih predstavi v obliki slovarja.
+    #Funkcija bo iz bloka HTML kode izluščila potrebne podatke o univerzi in jih predstavila v obliki slovarja.
     eu_rank = re.search(r'rank-number">(.*?)</div>', uni_block)
     ime_uni = re.search(r'itemprop="name">(.*?)</span>', uni_block)
     mesto = re.search(r'itemprop="addressLocality">(.*?)</span>', uni_block)
@@ -75,13 +75,13 @@ def get_university_from_block(uni_block):
     }
 
 def universities_to_dicts():
-    #Funkcija ustvari seznam slovarjev posameznih univerz.
+    #Ta funkcija bo ustvarila seznam slovarjev posameznih univerz.
     bloki = universities_to_blocks()
     seznam_univerz = [get_university_from_block(blok) for blok in bloki]
     return seznam_univerz
 
 def download_uni_pages(podatki):
-    #Ta funkcija prenese vsebino spletne strani posamezne univerze in jo shrani v datoteko z imenom univerze.
+    #Ta funkcija bo prenesla vsebino spletne strani posamezne univerze in jo shranil v datoteko z imenom univerze.
     for univerza in podatki:
         if univerza['URL podstrani'] is not None:
             ime_datoteke = univerza['Univerza'].replace(' ','_') + '.html'
