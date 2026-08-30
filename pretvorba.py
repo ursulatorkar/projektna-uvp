@@ -8,19 +8,9 @@ import urllib.error
 
 
 def download_url_to_string(url):
-    try:
-        request = urllib.request.Request(url)
-        with urllib.request.urlopen(request, timeout=10) as response:
+    request = urllib.request.Request(url)
+    with urllib.request.urlopen(request, timeout=10) as response:
             page_content = response.read().decode('utf-8')
-
-    except urllib.error.URLError as e:
-        print(f"Napaka pri prenosu spletne strani: {url} : {e}")
-        return None
-
-    except (TypeError, ValueError) as e:
-        print(f"Napaka pri obdelavi vsebine: {url} : {e}")
-        return None
-
     return page_content
 
 def save_string_to_file(text, directory, file):
