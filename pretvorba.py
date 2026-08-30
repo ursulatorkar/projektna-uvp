@@ -153,6 +153,19 @@ if __name__ == "__main__":
     univerze = universities_to_dicts()
     download_uni_pages(univerze)
     univerze = dodajanje_v_cel_seznam(univerze)
-    fieldnames = ['Evropski rank', 'Univerza', 'Mesto', 'Država', 'Svetovni rank', 'Državni rank', 'URL podstrani', 'Velikost', 'Selektivnost', 'Leto ustanovitve', 'Cena šolanja', 'Zgornja meja cene']
+    fieldnames = [
+        'Evropski rank', 
+        'Univerza', 
+        'Mesto', 
+        'Država', 
+        'Svetovni rank', 
+        'Državni rank', 
+        'URL podstrani', 
+        'Velikost', 
+        'Selektivnost', 
+        'Leto ustanovitve', 
+        'Cena šolanja', 
+        'Zgornja meja cene',
+        ]
     write_csv(fieldnames, univerze, 'universities', 'universities.csv')
     print("Podatki o top 200 evropskih univerzah so bili uspešno preneseni in shranjeni v datoteko universities.csv.")
